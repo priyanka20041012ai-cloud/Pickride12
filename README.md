@@ -4,7 +4,7 @@ A tuk/car/van booking website inspired by PickMe's ride-hailing flow, with a
 rider-facing site and an admin panel. Built with plain PHP + PDO + MySQL, no
 framework required.
 
-## Features
+## Features ok abd
 
 **Rider site**
 - Landing page with vehicle pricing
